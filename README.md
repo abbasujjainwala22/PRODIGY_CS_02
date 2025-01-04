@@ -1,4 +1,4 @@
-**Image Encryption Decryption Application**
+# IMAGE ENCRYPTION DECRYPTION APPLICATION
 
 # Description:
 
